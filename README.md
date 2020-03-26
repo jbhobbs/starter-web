@@ -5,6 +5,8 @@ More description
 
 ## Purpose
 
+More purpose
+
 ## Deployment
 
 Sample website with plenty of files for demos
